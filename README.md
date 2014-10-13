@@ -4,8 +4,6 @@ Source code for the slides (designed to be produced with [Deckset](http://deckse
 
 Presented at [Cocoaheads Paris](http://cocoaheads.fr/paris/) in October 2014
 
-[This presentation](Enemy of the State.md) is designed for [Deckset](http://decksetapp.com/) theme “Next”.
-
 ### References
 
 Here are some links to material referenced in the talk:
